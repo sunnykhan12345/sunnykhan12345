@@ -1,23 +1,4 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23838
-Fork on GitHub
-8172
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm sana ullah</h1>
 <h3 align="center">💻 Frontend Developer | React.js & Next.js | Learning Backend (Node.js & Express) 📍 Islamabad, Pakistan</h3>
 

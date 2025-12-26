@@ -27,7 +27,7 @@
   - [Marvellex Software](https://marvellex.com/) – guidance on Node.js & Express
 
 - 👨‍💻 All of my projects are available at:  
-  - [Portfolio](https://sanaullah-portfoliovercelapp.vercel.app/)
+  - [Portfolio](https://sanaullah-portfolio-psi.vercel.app//)
 
 - 💬 Ask me about:  
   - React, Next.js, AOS, Frontend & Backend development

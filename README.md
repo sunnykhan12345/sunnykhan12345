@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sana Ullah</h1>
-<h3 align="center">💻 Frontend Developer | React.js & Next.js | Learning Backend (Node.js & Express) 📍 Islamabad, Pakistan</h3>
-
+<h3 align="center">
+Frontend Developer | React.js • Next.js • TypeScript | SaaS & Dashboard Specialist
+</h3>
+<p align="center">Islamabad, Pakistan</p>
+<h4 align="center">
+Building scalable frontend systems, SaaS applications, and production-grade dashboards
+</h4>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sunnykhan12345" alt="sunnykhan12345" />

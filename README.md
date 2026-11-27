@@ -14,6 +14,6 @@ Building production web applications with **React.js, Next.js, Node.js, Express.
 
 📍 Islamabad, Pakistan
 
-🌐 Portfolio: https://sanaullah-portfolio-7k15.vercel.app/
+🌐 Portfolio: https://sanaullah-developer-portfolio.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/sanaullah-dev/
